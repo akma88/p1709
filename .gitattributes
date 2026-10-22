@@ -1,0 +1,7 @@
+# Exclude Flutter platform folders from language statistics
+android/** linguist-detectable=false
+ios/** linguist-detectable=false
+linux/** linguist-detectable=false
+macos/** linguist-detectable=false
+windows/** linguist-detectable=false
+web/** linguist-detectable=false
